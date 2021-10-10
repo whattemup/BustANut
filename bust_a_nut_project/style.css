@@ -1,0 +1,85 @@
+/* style.css */
+
+body {
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ background-repeat: repeat;
+ background-size:contain;
+}
+
+h1 {
+background-color: black;
+text-align: center;
+width: 800px;
+height: 90px;
+border-radius: 50%;
+color: white;
+display:block;
+margin: auto;
+padding-top: 1px;
+}
+
+.img-cheesecake {
+ width: 700px;
+ height: auto;
+ border-radius: 50%;
+ display:block;
+ margin: auto;
+}
+
+.capirotada {
+ background-color: white;
+ width: 800px;
+ height: auto;
+ border-radius: 50%;
+ display: block;
+ margin: auto;
+ padding-left: 25px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+.class {
+ background-color: white;
+ width: 1000px;
+ height: 500px;
+ border-radius: 50%;
+ display: block;
+ margin: auto;
+}
+
+footer  {
+ background-color: white;
+ width: 350px;
+ height: 150px;
+ border-radius: 50%;
+ display: block;
+ margin: auto;
+}
+
+.cheesecake {
+ background-color: white;
+ width: 700px;
+ height: auto;
+ border-radius: 5%;
+ display: block;
+ margin: auto;
+ text-align: left;
+ padding-left: 50px;
+ padding-top: 50px;
+ padding-right: 50px;
+ padding-bottom: 30px;
+} 
+
+.footer {
+ background-color: white;
+ width: 250px;
+ height: auto;
+ border-radius: 50%;
+ display: block;
+ margin: auto;
+ text-align: left;
+ padding-left: 50px;
+ padding-top: 10px;
+ padding-right: 10px;
+ padding-bottom: 10px;
+}
